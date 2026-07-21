@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0038_000-X.yaml, hash: 'sha256:ae4a6c29ff45baa850168d0555c63a622a3ab9aa6f42459371b3336aaf93ef19'}
+  - {seq: 0, filename: KR6q0038_000-X.yaml, hash: 'sha256:241016dcb2e547a530ff7e55326f5361dda7b7d96e28c2dc63cf96b6b9486cc8'}
   - {seq: 1, filename: KR6q0038_001-X.yaml, hash: 'sha256:c1e6474c40b5dad6ef6cd247957dd3465d5dc5bd90b3adbbf7e34d7800ef1963'}
   - {seq: 2, filename: KR6q0038_002-X.yaml, hash: 'sha256:1c8c7a64bef81e19714fc6f28c9b07dea30172fa0f4fdbc06d86f9dcc38b77d1'}
   - {seq: 3, filename: KR6q0038_003-X.yaml, hash: 'sha256:3e75aabb13b4b40d0b0015a8a3f1fa8b4e39394d2a971237db18112c79654ff5'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6q0038_005-X.yaml, hash: 'sha256:6724d78de353d8fa4808b923f6119a09282faed2e78b525e2d8ac5e24e9698c4'}
   - {seq: 6, filename: KR6q0038_006-X.yaml, hash: 'sha256:cfb2e0edb5d1acc4e7ff8f00c4756a4760b5bfb10e6810b889f2d053257497b2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0038_000-X.markers.yaml, hash: 'sha256:013660b876190588fc722987dfb8c113d99a9cdb11a15cc87f293a5ce461213e'}
+  - {seq: 0, role: markers, filename: assets/KR6q0038_000-X.markers.yaml, hash: 'sha256:88ed6e27d6660e32fc630a03e75e62057a8cb0774179e5c7ad7d514114b62123'}
   - {seq: 1, role: markers, filename: assets/KR6q0038_001-X.markers.yaml, hash: 'sha256:e8f26196c00b4d76ba7687b51ac008b571f522af52d983c3f109c4de1e0a75c9'}
   - {seq: 2, role: markers, filename: assets/KR6q0038_002-X.markers.yaml, hash: 'sha256:aa972baae86acce753d4a8a9d64f61264efc7a15f13f8ee2d6cfc27573070798'}
   - {seq: 3, role: markers, filename: assets/KR6q0038_003-X.markers.yaml, hash: 'sha256:4ffe40d0b6a1586b21543fda97838438c439fd0320163a164825e2546ac6a255'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0038_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1605-A 繼燈錄序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0038_X_000-mulu-2
     span:
-    - front
+    - body
     - 621
     - 621
   label: 凡例七條
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0038_X_000-mulu-3
     span:
-    - front
+    - body
     - 1077
     - 1077
   label: 繼燈錄目錄
@@ -3895,4 +3895,4 @@ table_of_contents:
   label: 少林匾囤無空悟頓禪師
   type: mulu
   level: 1
-hash: sha256:b17a0f98ee65099a5d9853e98cbcf3b0f37ab9c8809926c45b76f1a1611b1c5c
+hash: sha256:cdccf3752ec66aa4f8f499610506e56c68c79881cf6f381c0a2c4ac31b7a4710
